@@ -13,8 +13,6 @@ Welcome to the Movie Recommendation Based on Content project! This project aims 
 4. [Usage](#usage)
 5. [Data](#data)
 6. [Algorithm](#algorithm)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
