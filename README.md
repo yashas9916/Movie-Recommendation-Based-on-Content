@@ -54,3 +54,4 @@ The project uses a curated dataset of movies, including information such as titl
 
 The recommendation algorithm leverages machine learning techniques to analyze movie features and calculate similarity scores. The system continuously learns and improves its recommendations as more users interact with it.
 
+<img width="1129" alt="2-Sample" src="https://github.com/yashas9916/Movie-Recommendation-Based-on-Content/assets/38746257/8ab5b028-a714-462c-b493-4a00fa537ba9">
