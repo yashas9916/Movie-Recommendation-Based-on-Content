@@ -1,4 +1,3 @@
-# Movie-Recommendation-Based-on-Content
 # Movie Recommendation Based on Content
 
 ## Project Overview
